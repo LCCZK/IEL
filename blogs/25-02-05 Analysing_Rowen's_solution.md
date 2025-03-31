@@ -42,7 +42,7 @@ The reason for I was not able to get things to work is because `system monitor` 
 
 ## Conclusions
 
-I learnt that having a well written documentation will help future developer spend their time on unnessary tasks, having a clear objective and placing deadlines on tasks will boost my productivity significantly.
+I learnt that having a well written documentation will help future developer to spend less of their time on unnessary tasks. Having a clear objective and placing deadlines on tasks will boost my productivity significantly.
 
 ## Action plan
 
