@@ -26,7 +26,7 @@ Committee meeting is vewry useful, I was able to hear openion form different tea
 
 ## Conclusions
 
-While it is important to have a "perfect" solution to an issue, but if the  solution is addressing an issue with high priority, temporary solution should be implemented instead. 
+While it is important to have a "perfect" solution to an issue, but if the  solution is addressing an issue with high priority, temporary solution should be implemented instead.
 
 ## Action plan
 
