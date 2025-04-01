@@ -4,7 +4,7 @@
 
 [Last week](25-01-30%20Still_investigating_and_found_some_useful_old_code.md) I discovered an project(System-monitor) by our privious member Rowen which address a similar  issue I am trying to address. I decided to have a meeting with the commitee members in a few days to discuss if we should use this solution for FS25 and  develiope upon it.
 
-So I spent this week investigating those code and preparing a presentation for the software commitee to discuss whether we if we should develope on top of it should use this solution .
+So I spent this week investigating those code and preparing a presentation for the software commitee to discuss whether we if we should develope on top of it should use this solution.
 
 I identitied the main complication is that that the project was built for ROS1 instead of the ROS2 framwork we are using right now and I found solutions that how we could run it with our ROS2 framwork.
 <!-- 

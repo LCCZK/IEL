@@ -30,10 +30,10 @@ While it is important to have a "perfect" solution to an issue, but if the  solu
 
 ## Action plan
 
-- improve my problem solving workflow:
+- Improve my problem solving workflow:
   1. Identify the issue
      - What is the issue?
-     - How does the issue expressing it self?
+     - How does the issue expressing itself?
      - How severe it is?
 
   2. Analysis the issue

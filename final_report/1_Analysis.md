@@ -9,7 +9,7 @@ In your own words, what are you focusing on for this learning outcome? Make this
 What have you done since your Proposal to progress this learning outcome?
 
 What unexpected changes, challenges and/or problems have you encountered?
- -->
+-->
 
 ## So What?
 <!-- 
@@ -18,7 +18,7 @@ What are the main things you have learned from your experiences in relation to t
 What experiences contributed the most to this learning?
 
 How have you learned from anything that was unexpected, challenging, or difficult?
- -->
+-->
 
 ## Now What?
 

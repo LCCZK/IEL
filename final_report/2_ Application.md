@@ -1,7 +1,6 @@
 # LO2: Application
 
-I am able to draw on and apply a range of relevant skills and attributes (academic, professional and/or personal) in order to engage effectively and critically with my SLICC, identifying where I need to improve these and/or develop new ones. 
-
+I am able to draw on and apply a range of relevant skills and attributes (academic, professional and/or personal) in order to engage effectively and critically with my SLICC, identifying where I need to improve these and/or develop new ones.
 
 ## What
 <!-- 
