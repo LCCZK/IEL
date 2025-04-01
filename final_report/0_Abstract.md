@@ -5,13 +5,13 @@
 - A short overview of your learning journey what you have learnt along the way, including what you may have anticipated, and what was unexpected.
 -->
 
-I chose to work on this project because I believe it will help me better understand how our software works together and achieve in different subteams and identify any improvement we can make in the future.  Also, I am very interested in robotics and want to improve my skills in ROS2 and C++ to prepare me for a career in the field.
+I chose to work on this project because I believe it will help me better understand how our software works together and achieve in different subteams and identify any improvement we can make in the future. Also, I am very interested in robotics and want to improve my skills in ROS2 and C++ to prepare me for a career in the field.
 
 On top of those reasons, an unanticipated sensor failure nearly ended our EUFS's seven-year winning streak in the last competition, so we decided to devise measures to mitigate negative effects when incidents like that occur in the future.
 
-My learning journey can be summerised into that I modeled the incident we encountered laste year, investigated different potential solutions and implemented `cone association error`, which did not end up to be an effective solution and led to further research and the developement of `pose prediction`. It improved the behaviour of our software when encounter `Lidar faliure` like what happened last year, but it is not a generic solution to `Sensor failure` like I hoped initially.
+My learning journey can be summarised as that I modelled the incident we encountered last year, investigated different potential solutions and implemented `cone association error`, which did not end up being an effective solution and led to further research and the development of `pose prediction`. It improved our software's behaviour when encountering `Lidar failure` like what happened last year, but it is not a generic solution to `sensor failure` like I initially hoped.
 
-When conducting this project, I was given lots of lessons. I have learnt and improved my approches when analysing issues and reading academic papers, skills in software developing, communications and teamworking, stress and task management and self evaluation of my emotion and mental health.
+When conducting this project, I was given lots of valuable lessons. I have learnt and improved my approaches when analysing issues and reading academic papers, skills in software development, communications and teamwork, stress and task management and self-evaluation of my emotions and mental health.
 
 <!-- I was able to improve many skills  -->
 
