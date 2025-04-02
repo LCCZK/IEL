@@ -18,7 +18,7 @@ As for the blogs, I feel quite unhappy how they turned out. Bacaue at the start 
 
 Nothing really went well these two weeks when I was writing the report. Althought I have done it a lot during my studies, I always dislike writing tasks. Mainly because I struggle to put my thoughts into words in a structured way. I think this is why I underestimate how long it will take and kept procrasting to writing the report.
 
-The reason I am slowly losing my motivation is that I didn't fining this experience rewarding enough in terms of solving the real issue, it feels like I am stuck in an endless loop of researching and analysing and failing, dispite I am getting closer.  
+The reason I am slowly losing my motivation is that I didn't find this experience rewarding enough in terms of solving the real issue, it feels like I am stuck in an endless loop of researching and analysing and failing, dispite I am getting closer.  
 
 ## Conclusions
 
