@@ -8,7 +8,7 @@ Also during the process I looked back at all the blogs I wrote then I realised t
 
 ## Feelings
 
-I did not start writing the report until 5 days befor the deadline, because thought it will be easy to summerise everyting into the report since I have got all the blogs written, so I did not have the motivation to start it earlier.
+I did not start writing the report until 5 days before the deadline, because thought it will be easy to summerise everyting into the report since I have got all the blogs written, so I did not have the motivation to start it earlier.
 
 When I actually started the writing, I found it was actually a very difficult task to put everyting into the 5 learning outcome, and since I did not use pebblepad for blogging, I am not familiar with the tool, got very frustrated when trying to link my blogs. Then I thought since this report do not count towards our final grade I could get away with sending a half done report and get feedback for it, so I gave up at the end. Now looking back I am very disapointted at myself, bacause I just assumed the report will be easy and when I realised it is not, I gave up at the end.
 

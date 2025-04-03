@@ -8,7 +8,7 @@
 
 ## Reflection
 
-- I realised there are many ROS packages already existed,  but the maintenance is quite poor.
+- I realised there are many ROS packages already existed, but the maintenance is quite poor.
 - My previous focus was mainly within the software aspect of the car, but this project involves many different aspect such as how to convert analogue signal, enable monitoring within ROS framework.
 - Although this is outside of my comfort zone and is quite tricky (Which is why we didn't start with this solution), I feel like I am learning more.
 - I think the talk went well, our members can now test their program in the simulated environment.
